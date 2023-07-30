@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaspel/static/css/main.4b7054d2.css",
+    "main.js": "/kaspel/static/js/main.e163da97.js",
+    "static/js/787.c929529d.chunk.js": "/kaspel/static/js/787.c929529d.chunk.js",
+    "index.html": "/kaspel/index.html",
+    "main.4b7054d2.css.map": "/kaspel/static/css/main.4b7054d2.css.map",
+    "main.e163da97.js.map": "/kaspel/static/js/main.e163da97.js.map",
+    "787.c929529d.chunk.js.map": "/kaspel/static/js/787.c929529d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7054d2.css",
+    "static/js/main.e163da97.js"
+  ]
+}
